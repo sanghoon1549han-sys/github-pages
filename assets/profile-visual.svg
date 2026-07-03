@@ -1,0 +1,29 @@
+<svg width="520" height="420" viewBox="0 0 520 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">개발자 문제 해결 흐름</title>
+  <desc id="desc">문제 정의, 설계, 구현, 개선 단계를 연결한 포트폴리오용 시각 요소</desc>
+  <rect width="520" height="420" rx="8" fill="#F7F9F5"/>
+  <rect x="34" y="34" width="452" height="352" rx="8" fill="#FFFFFF" stroke="#D6DED2" stroke-width="2"/>
+  <rect x="58" y="58" width="404" height="48" rx="6" fill="#17201A"/>
+  <circle cx="82" cy="82" r="6" fill="#E05D4F"/>
+  <circle cx="104" cy="82" r="6" fill="#E2A93B"/>
+  <circle cx="126" cy="82" r="6" fill="#3BA675"/>
+  <rect x="158" y="74" width="168" height="16" rx="4" fill="#E7EEE3"/>
+  <rect x="58" y="130" width="146" height="86" rx="8" fill="#EAF3EF" stroke="#B7CEC2"/>
+  <rect x="228" y="130" width="234" height="86" rx="8" fill="#EEF2FA" stroke="#BEC9DF"/>
+  <rect x="58" y="246" width="404" height="96" rx="8" fill="#FFF7EB" stroke="#E8CFA4"/>
+  <path d="M205 173H227" stroke="#2D5F9A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M216 162L227 173L216 184" stroke="#2D5F9A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 218V244" stroke="#1F7A5C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M135 233L146 244L157 233" stroke="#1F7A5C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M346 218V244" stroke="#1F7A5C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M335 233L346 244L357 233" stroke="#1F7A5C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="82" y="166" fill="#17201A" font-family="Arial, sans-serif" font-size="18" font-weight="700">문제 정의</text>
+  <text x="82" y="192" fill="#4D5B52" font-family="Arial, sans-serif" font-size="14">사용자 맥락 파악</text>
+  <text x="252" y="166" fill="#17201A" font-family="Arial, sans-serif" font-size="18" font-weight="700">구조 설계와 구현</text>
+  <text x="252" y="192" fill="#4D5B52" font-family="Arial, sans-serif" font-size="14">읽기 쉬운 코드와 테스트</text>
+  <text x="82" y="284" fill="#17201A" font-family="Arial, sans-serif" font-size="18" font-weight="700">측정 가능한 개선</text>
+  <text x="82" y="312" fill="#4D5B52" font-family="Arial, sans-serif" font-size="14">피드백, 성능, 접근성을 함께 확인</text>
+  <rect x="338" y="275" width="88" height="10" rx="5" fill="#C9772A"/>
+  <rect x="338" y="299" width="64" height="10" rx="5" fill="#2D5F9A"/>
+  <rect x="338" y="323" width="104" height="10" rx="5" fill="#1F7A5C"/>
+</svg>
